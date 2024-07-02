@@ -25,3 +25,8 @@ This project builds on mvvm architecture and clean architecture. Mostly new tech
  - Coroutine: [version: '1.7.3'] (https://developer.android.com/kotlin/coroutines)
  - Coil: [version: '2.0.0'] (https://github.com/coil-kt/coil)
  - ComposeUI: (https://developer.android.com/jetpack/androidx/releases/compose-ui)
+# Video
+
+
+https://github.com/AnhDuyDT4/TourGuide/assets/35226783/7585303e-2f74-4177-aaea-98584254a9b7
+
