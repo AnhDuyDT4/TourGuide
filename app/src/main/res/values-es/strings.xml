@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Tour Guide</string>
+  <string name="language">Idioma: %1$s</string>
+  <string name="open">Abierto</string>
+  <string name="closed">Cerrado</string>
+  <string name="open_status">Estado abierto: %1$s</string>
+  <string name="address">Dirección: %1$s</string>
+  <string name="open_time">Horario de apertura: %1$s</string>
+  <string name="official_site">Sitio oficial: %1$s</string>
+  <string name="images">Las imágenes:</string>
+  <string name="select_language">Seleccionar idioma</string>
+  <string name="loading">Cargando...</string>
+  <string name="an_error_occurred">Se produjo un error</string>
+  <string name="no_data_available">No hay datos disponibles</string>
+  <string name="introduce">Introducción:</string>
+  <string name="attraction">Atracción</string>
+  <string name="activity_event">Actividad Evento</string>
+  <string name="attraction_detail">Detalles de la atracción</string>
+  <string name="attractions">Atracciones</string>
+  <string name="ok">Aceptar</string>
+  <string name="error">Error</string>
+  <string name="network_error_connection">Actualmente se está perdiendo la conexión de red, por favor revise su conexión de red e inténtelo de nuevo</string>
+  <string name="show_attractions">Mostrar Atracciones</string>
+  <string name="select_categories_to_show_attractions">Seleccione la categoría para filtrar atracciones</string>
+  <string name="this_feature_is_under_development_please_understand">Esta función está en desarrollo, por favor entienda.</string>
+
+
+</resources>

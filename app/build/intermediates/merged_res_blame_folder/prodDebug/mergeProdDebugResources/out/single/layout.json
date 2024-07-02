@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-mergeProdDebugResources-77:/layout/custom_tab.xml",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/custom_tab.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-mergeProdDebugResources-77:/layout/dialog_network.xml",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/dialog_network.xml"
+    },
+    {
+        "merged": "com.jk.tourguide.app-mergeProdDebugResources-77:/layout/fragment_home.xml",
+        "source": "com.jk.tourguide.app-main-80:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-mergeProdDebugResources-77:/layout/item_empty.xml",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/item_empty.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-mergeProdDebugResources-77:/layout/item_list.xml",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/item_list.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-mergeProdDebugResources-77:/layout/item_loading.xml",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/item_loading.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-mergeProdDebugResources-77:/layout/activity_main.xml",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-mergeProdDebugResources-77:/layout/item_error.xml",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/item_error.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-mergeProdDebugResources-77:/layout/fragment_home.xml",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-mergeProdDebugResources-77:/layout/dialog_language_selection.xml",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/dialog_language_selection.xml"
+    }
+]

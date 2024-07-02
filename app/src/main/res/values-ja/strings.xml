@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Tour Guide</string>
+  <string name="language">言語:%1$s</string>
+
+  <string name="open">オープン</string>
+  <string name="closed">クローズド</string>
+  <string name="open_status">オープンステータス: %1$s</string>
+  <string name="address">住所: %1$s</string>
+  <string name="open_time">開店時間: %1$s</string>
+  <string name="official_site">公式サイト: %1$s</string>
+  <string name="images">画像:</string>
+  <string name="select_language">言語を選択</string>
+  <string name="loading">読み込み中...</string>
+  <string name="an_error_occurred">エラーが発生しました</string>
+  <string name="no_data_available">データがありません</string>
+  <string name="introduce">紹介:</string>
+  <string name="attraction">アトラクション</string>
+  <string name="activity_event">アクティビティイベント</string>
+  <string name="attraction_detail">アトラクションの詳細</string>
+  <string name="attractions">アトラクション</string>
+  <string name="ok">OK</string>
+  <string name="error">エラー</string>
+  <string name="network_error_connection">現在ネットワーク接続が失われています。ネットワーク接続を確認して再試行してください。</string>
+  <string name="show_attractions">アトラクションを表示</string>
+  <string name="select_categories_to_show_attractions">アトラクションをフィルタリングするカテゴリを選択</string>
+  <string name="this_feature_is_under_development_please_understand">この機能は開発中です。ご了承ください。</string>
+
+
+</resources>

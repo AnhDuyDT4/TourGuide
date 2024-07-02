@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_medium.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_medium.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_extra_bold.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_extra_bold.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/drawable_ic_plash_logo.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/drawable/ic_plash_logo.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/layout_activity_main.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_thin.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_thin.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_black_italic.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_black_italic.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.jk.tourguide.app-prodDebug-78:/layout_fragment_home.xml.flat",
+        "source": "com.jk.tourguide.app-main-80:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_light.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_light.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/drawable_ic_back.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/drawable_ic_logo.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_medium_italic.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_medium_italic.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/xml_backup_rules.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_bold_italic.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_bold_italic.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/navigation_nav_graph.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_light_italic.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_light_italic.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/anim_fade_in.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_thin_italic.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_thin_italic.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_regular.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_regular.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/layout_item_list.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/item_list.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/drawable_ic_placeholder_attaction.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/drawable/ic_placeholder_attaction.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/anim_fade_out.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_black.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_black.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/layout_item_empty.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/item_empty.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/layout_item_loading.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/item_loading.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/drawable_ic_close.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_italic.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_italic.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/drawable_bg_tab_layout_selector.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/drawable/bg_tab_layout_selector.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/layout_dialog_language_selection.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/dialog_language_selection.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_bold.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_bold.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_semi_bold.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_semi_bold.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/layout_fragment_home.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/layout_item_error.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/item_error.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/drawable_bg_round_24.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/drawable/bg_round_24.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/layout_custom_tab.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/custom_tab.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/layout_dialog_network.xml.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/layout/dialog_network.xml"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_extra_bold_italic.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_extra_bold_italic.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_semi_bold_italic.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_semi_bold_italic.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_extra_light.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_extra_light.ttf"
+    },
+    {
+        "merged": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-prodDebug-78:/font_urbanist_extra_light_italic.ttf.flat",
+        "source": "/Users/duyduong/.gradle/daemon/8.6/com.jk.tourguide.app-main-80:/font/urbanist_extra_light_italic.ttf"
+    }
+]

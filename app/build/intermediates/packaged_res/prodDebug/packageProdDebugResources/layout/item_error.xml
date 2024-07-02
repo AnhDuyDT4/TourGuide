@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:gravity="center"
+  android:orientation="vertical"
+  android:padding="16dp">
+
+  <androidx.appcompat.widget.AppCompatImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:tint="@color/orange"
+    android:src="@android:drawable/ic_dialog_alert" />
+
+  <androidx.appcompat.widget.AppCompatTextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:fontFamily="@font/urbanist_medium"
+    android:textColor="@color/black"
+    android:textSize="@dimen/text_normal"
+    android:text="@string/an_error_occurred"
+    android:textAppearance="?android:textAppearanceMedium" />
+
+</LinearLayout>

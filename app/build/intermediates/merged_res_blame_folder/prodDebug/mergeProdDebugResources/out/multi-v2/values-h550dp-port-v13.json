@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jk.tourguide.app-mergeProdDebugResources-76:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/duyduong/.gradle/caches/transforms-4/45e98a7efc0a4a677b582a926a29f42f/transformed/material-1.10.0/res/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

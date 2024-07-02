@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.jk.tourguide.screen.splash.SplashFragmentDirections","com.jk.tourguide.screen.home.HomeFragmentDirections","com.jk.tourguide.screen.category.CategoriesFragmentDirections"]}]

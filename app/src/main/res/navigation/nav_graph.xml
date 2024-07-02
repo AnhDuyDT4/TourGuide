@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:id="@+id/nav_graph"
+  app:startDestination="@id/splashFragment"
+  tools:ignore="InvalidNavigation">
+
+  <fragment
+    android:id="@+id/splashFragment"
+    android:name="com.jk.tourguide.screen.splash.SplashFragment">
+
+    <action
+      android:id="@+id/toHomeFragment"
+      app:destination="@+id/homeFragment"
+      app:enterAnim="@anim/fade_in"
+      app:exitAnim="@anim/fade_out"
+      app:popUpTo="@+id/splashFragment"
+      app:popUpToInclusive="true" />
+
+  </fragment>
+
+  <fragment
+    android:id="@+id/homeFragment"
+    android:name="com.jk.tourguide.screen.home.HomeFragment">
+    <action
+      android:id="@+id/action_homeFragmentt_to_ceneryFragmentt"
+      app:destination="@id/categoryFragment" />
+
+    <action
+      android:id="@+id/toAttractionFragment"
+      app:destination="@id/attractionFragment"
+      app:enterAnim="@anim/fade_in"
+      app:exitAnim="@anim/fade_out"
+      app:popUpTo="@+id/splashFragment">
+      <argument
+        android:name="categoryIds"
+        app:argType="string" />
+    </action>
+
+  </fragment>
+
+  <fragment
+    android:id="@+id/categoryFragment"
+    android:name="com.jk.tourguide.screen.category.CategoriesFragment">
+    <action
+      android:id="@+id/toAttractionFragment"
+      app:destination="@id/attractionFragment"
+      app:enterAnim="@anim/fade_in"
+      app:exitAnim="@anim/fade_out"
+      app:popUpTo="@+id/splashFragment">
+      <argument
+        android:name="category_id"
+        app:argType="string" />
+    </action>
+  </fragment>
+
+
+  <fragment
+    android:id="@+id/attractionFragment"
+    android:name="com.jk.tourguide.screen.attractions.AttractionFragment">
+
+  </fragment>
+
+</navigation>

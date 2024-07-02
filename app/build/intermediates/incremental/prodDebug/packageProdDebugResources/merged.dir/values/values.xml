@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="celadon">#80AFE1AF</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="gray80">#80D3D3D3</color>
+    <color name="orange">#FFFF9800</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FFFF0000</color>
+    <color name="tawny_port">#FF501E50</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dimen_12dp">12dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+    <dimen name="dimen_35dp">35dp</dimen>
+    <dimen name="dimen_50dp">50dp</dimen>
+    <dimen name="status_bar_height">24dp</dimen>
+    <dimen name="text_normal">18sp</dimen>
+    <dimen name="text_title">20sp</dimen>
+    <dimen name="text_title_large">26sp</dimen>
+    <string name="activity_event">Activity Event</string>
+    <string name="address">Address: %1$s</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="app_name" translatable="false">Tour Guide</string>
+    <string name="attraction">Attraction</string>
+    <string name="attraction_detail">Attraction Detail</string>
+    <string name="attractions">Attractions</string>
+    <string name="chinese" translatable="false">中国</string>
+    <string name="closed">closed</string>
+    <string name="english" translatable="false">English</string>
+    <string name="error">Error</string>
+    <string name="guide" translatable="false">GUIDE</string>
+    <string name="images">The pictures:</string>
+    <string name="introduce">Introduce:</string>
+    <string name="japanese" translatable="false">日本語</string>
+    <string name="language">Language: %1$s</string>
+    <string name="loading">Loading...</string>
+    <string name="network_error_connection">Currently losing network connection, please check your network connection and try again</string>
+    <string name="no_data_available">No data available</string>
+    <string name="official_site">Official site: %1$s</string>
+    <string name="ok">Okay</string>
+    <string name="open">open</string>
+    <string name="open_status">Open status: %1$s</string>
+    <string name="open_time">Open time: %1$s</string>
+    <string name="select_categories_to_show_attractions">Select Category to filter attractions</string>
+    <string name="select_language">Select Language</string>
+    <string name="show_attractions">Show Attractions</string>
+    <string name="spanish" translatable="false">Español</string>
+    <string name="taiwanese" translatable="false">台灣</string>
+    <string name="this_feature_is_under_development_please_understand">This feature is under development, please understand.</string>
+    <string name="travel" translatable="false">TRAVEL</string>
+    <string name="vietnamese" translatable="false">Tiếng Việt</string>
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+    <item name="tabTextAppearance">@style/MyCustomTextAppearance</item>
+  </style>
+    <style name="MyCustomTextAppearance" parent="TextAppearance.Design.Tab">
+    <item name="textAllCaps">false</item>
+    <item name="android:textSize">@dimen/text_normal</item>
+    <item name="android:textColor">@color/black</item>
+    <item name="fontFamily">@font/urbanist_bold</item>
+  </style>
+    <style name="Theme.TourGuide" parent="Theme.AppCompat.NoActionBar">
+    <item name="android:windowTranslucentStatus">true</item>
+    <item name="android:windowBackground">@color/white</item>
+    <item name="android:windowTranslucentNavigation">false</item>
+  </style>
+    <style name="TransparentDialog" parent="Theme.AppCompat.Dialog">
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+</resources>

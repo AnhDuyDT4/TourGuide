@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_event">活動事件</string>
+    <string name="address">地址：%1$s</string>
+    <string name="an_error_occurred">發生錯誤</string>
+    <string name="app_name">Tour Guide</string>
+    <string name="attraction">景點</string>
+    <string name="attraction_detail">景點詳情</string>
+    <string name="attractions">景點列表</string>
+    <string name="closed">關閉</string>
+    <string name="error">錯誤</string>
+    <string name="images">圖片：</string>
+    <string name="introduce">介紹：</string>
+    <string name="language">語言:%1$s</string>
+    <string name="loading">加載中...</string>
+    <string name="network_error_connection">當前網絡連接不穩定，請檢查您的網絡連接並重試</string>
+    <string name="no_data_available">沒有可用數據</string>
+    <string name="official_site">官方網站：%1$s</string>
+    <string name="ok">確定</string>
+    <string name="open">開放</string>
+    <string name="open_status">開放狀態：%1$s</string>
+    <string name="open_time">開放時間：%1$s</string>
+    <string name="select_categories_to_show_attractions">選擇類別以篩選景點</string>
+    <string name="select_language">選擇語言</string>
+    <string name="show_attractions">顯示景點</string>
+    <string name="this_feature_is_under_development_please_understand">此功能正在開發中，請見諒。</string>
+</resources>

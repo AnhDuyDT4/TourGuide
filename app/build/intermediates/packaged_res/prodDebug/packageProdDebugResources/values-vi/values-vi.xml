@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_event">Sự kiện Hoạt động</string>
+    <string name="address">Địa chỉ: %1$s</string>
+    <string name="an_error_occurred">Đã xảy ra lỗi</string>
+    <string name="app_name">Tour Guide</string>
+    <string name="attraction">Điểm tham quan</string>
+    <string name="attraction_detail">Chi tiết Điểm thu hút</string>
+    <string name="attractions">Điểm thu hút</string>
+    <string name="closed">đóng cửa</string>
+    <string name="error">Lỗi</string>
+    <string name="images">Các hình ảnh khác:</string>
+    <string name="introduce">Giới thiệu:</string>
+    <string name="language">Ngôn ngữ: %1$s</string>
+    <string name="loading">Đang tải...</string>
+    <string name="network_error_connection">Hiện tại đang mất kết nối mạng, vui lòng kiểm tra lại kết nối mạng và thử lại.</string>
+    <string name="no_data_available">Không có dữ liệu</string>
+    <string name="official_site">Trang web chính thức: %1$s</string>
+    <string name="ok">Đồng ý</string>
+    <string name="open">mở cửa</string>
+    <string name="open_status">Trạng thái mở cửa: %1$s</string>
+    <string name="open_time">Giờ mở cửa: %1$s</string>
+    <string name="select_categories_to_show_attractions">Chọn Danh mục để lọc hiển thị điểm tham quan</string>
+    <string name="select_language">Chọn Ngôn Ngữ</string>
+    <string name="show_attractions">Xem điểm tham quan</string>
+    <string name="this_feature_is_under_development_please_understand">Tính năng này đang được phát triển, xin hãy thông cảm.</string>
+</resources>

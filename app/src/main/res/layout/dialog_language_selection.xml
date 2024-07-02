@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:padding="16dp"
+  android:background="@drawable/bg_round_24">
+
+  <androidx.appcompat.widget.AppCompatImageView
+    android:id="@+id/btnClose"
+    android:layout_width="@dimen/dimen_35dp"
+    android:layout_height="@dimen/dimen_35dp"
+    android:src="@drawable/ic_close"
+    android:tint="@color/black"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toTopOf="parent" />
+
+  <androidx.appcompat.widget.AppCompatTextView
+    android:id="@+id/dialogTitle"
+    android:textStyle="bold"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/select_language"
+    android:textColor="@color/black"
+    android:textSize="@dimen/text_title"
+    app:fontFamily="@font/urbanist_bold"
+    android:layout_marginEnd="@dimen/dimen_35dp"
+    android:layout_marginStart="@dimen/dimen_50dp"
+    app:layout_constraintEnd_toStartOf="@id/btnClose"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent" />
+
+  <androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/languageListView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/dimen_12dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:dividerHeight="1dp"
+    tools:itemCount="5"
+    tools:listitem="@layout/item_list"
+    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@id/dialogTitle" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jk.tourguide.app-mergeProdDebugResources-76:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/duyduong/.gradle/caches/transforms-4/10e6e2ac891b904eb050c65174765efb/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Tour Guide</string>
+  <string name="language">语言:%1$s</string>
+  <string name="open_status">营业状态：%1$s</string>
+  <string name="address">地址：%1$s</string>
+  <string name="open_time">营业时间：%1$s</string>
+  <string name="official_site">官方网站：%1$s</string>
+  <string name="images">图片：</string>
+  <string name="select_language">选择语言</string>
+  <string name="loading">加载中...</string>
+  <string name="an_error_occurred">发生错误</string>
+  <string name="no_data_available">暂无数据</string>
+  <string name="introduce">介绍：</string>
+  <string name="attraction">景点</string>
+  <string name="activity_event">活动事件</string>
+  <string name="attraction_detail">景点详情</string>
+  <string name="attractions">景点列表</string>
+  <string name="ok">确定</string>
+  <string name="error">错误</string>
+  <string name="network_error_connection">当前网络连接不稳定，请检查网络连接并重试</string>
+  <string name="show_attractions">显示景点</string>
+  <string name="select_categories_to_show_attractions">选择类别以过滤景点</string>
+  <string name="open">开放</string>
+  <string name="closed">关闭</string>
+  <string name="this_feature_is_under_development_please_understand">此功能正在开发中，请理解。</string>
+
+</resources>

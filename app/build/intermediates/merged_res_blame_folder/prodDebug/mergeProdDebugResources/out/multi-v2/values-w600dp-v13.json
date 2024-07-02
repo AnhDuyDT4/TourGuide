@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jk.tourguide.app-mergeProdDebugResources-76:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/duyduong/Documents/projects/Android/agssiment/app/src/main/res/values-w600dp/dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "2",
+                        "startOffsets": "14",
+                        "endColumns": "55",
+                        "endOffsets": "67"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
