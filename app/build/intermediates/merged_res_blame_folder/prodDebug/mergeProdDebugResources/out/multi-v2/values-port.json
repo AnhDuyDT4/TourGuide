@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.jk.tourguide.app-mergeProdDebugResources-76:/values-port/values-port.xml",
+            "outputFile": "com.jk.tourguide.app-mergeProdDebugResources-74:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/duyduong/.gradle/caches/transforms-4/10e6e2ac891b904eb050c65174765efb/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "source": "/Users/duyduong/.gradle/caches/transforms-4/f2bd9d8cf66aabb4a19d5a87a5cc0986/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
