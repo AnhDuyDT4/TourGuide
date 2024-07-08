@@ -3493,8 +3493,6 @@ int id notification_main_column 0x7f090155
 int id notification_main_column_container 0x7f090156
 int id off 0x7f090157
 int id on 0x7f090158
-int id onAttachStateChangeListener 0x7f090159
-int id onDateChanged 0x7f09015a
 int id onInterceptTouchReturnSwipe 0x7f09015b
 int id open_search_bar_text_view 0x7f09015c
 int id open_search_view_background 0x7f09015d
@@ -3629,7 +3627,6 @@ int id textSpacerNoButtons 0x7f0901dd
 int id textSpacerNoTitle 0x7f0901de
 int id textStart 0x7f0901df
 int id textTop 0x7f0901e0
-int id textWatcher 0x7f0901e1
 int id text_input_end_icon 0x7f0901e2
 int id text_input_error_icon 0x7f0901e3
 int id text_input_start_icon 0x7f0901e4

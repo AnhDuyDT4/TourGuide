@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.jk.tourguide.app-mergeProdDebugResources-76:/values-v28/values-v28.xml",
+            "outputFile": "com.jk.tourguide.app-mergeProdDebugResources-74:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/Users/duyduong/.gradle/caches/transforms-4/10e6e2ac891b904eb050c65174765efb/transformed/appcompat-1.6.1/res/values-v28/values-v28.xml",
+                    "source": "/Users/duyduong/.gradle/caches/transforms-4/f2bd9d8cf66aabb4a19d5a87a5cc0986/transformed/appcompat-1.6.1/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/duyduong/.gradle/caches/transforms-4/45e98a7efc0a4a677b582a926a29f42f/transformed/material-1.10.0/res/values-v28/values-v28.xml",
+                    "source": "/Users/duyduong/.gradle/caches/transforms-4/c417338749f26edc29fcce607feb3679/transformed/material-1.10.0/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
