@@ -4,7 +4,7 @@
             "outputFile": "com.jk.tourguide.test.app-mergeProdDebugAndroidTestResources-34:/values-ta/values-ta.xml",
             "map": [
                 {
-                    "source": "/Users/duyduong/.gradle/caches/transforms-4/72dc0a0c434be46d79ee61f198ae43c6/transformed/core-1.13.1/res/values-ta/values-ta.xml",
+                    "source": "/Users/duyduong/.gradle/caches/transforms-4/eae757d148736f8b6c8fc1e6d86fa94d/transformed/core-1.13.1/res/values-ta/values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/duyduong/.gradle/caches/transforms-4/ea825627bb771c367ceb0d1ef6bfc259/transformed/ui-release/res/values-ta/values-ta.xml",
+                    "source": "/Users/duyduong/.gradle/caches/transforms-4/47c161c35d3c06dc525c63141049baaa/transformed/ui-release/res/values-ta/values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
