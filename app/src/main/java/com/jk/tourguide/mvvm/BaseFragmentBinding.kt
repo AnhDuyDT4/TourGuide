@@ -10,9 +10,7 @@ import androidx.viewbinding.ViewBinding
 import java.lang.reflect.Method
 import java.lang.reflect.ParameterizedType
 
-open class BaseFragmentBinding<V: ViewBinding>(
-    @LayoutRes layoutId: Int
-):  Fragment() {
+open class BaseFragmentBinding<V: ViewBinding>:  Fragment() {
 
     private var _binding: V? = null
     protected val binding get() = _binding!!
