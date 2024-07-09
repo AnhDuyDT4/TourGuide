@@ -23,8 +23,14 @@ android {
 
     signingConfigs {
         create("release") {
-            storeFile = file("key/release.jks")
-            storePassword = "travelguide"
+            storeFile = file("../key/release.jks")
+            storePassword = "travelguide123@"
+            keyAlias = "travelguide123@"
+            keyPassword = "travelguide123@"
+        }
+        create("debugAndroid") {
+            storeFile = file("../key/release.jks")
+            storePassword = "travelguide123@"
             keyAlias = "travelguide123@"
             keyPassword = "travelguide123@"
         }
@@ -42,7 +48,7 @@ android {
             )
         }
         debug {
-            isDebuggable = true
+            signingConfig = signingConfigs.getByName("debugAndroid")
         }
     }
     flavorDimensions += "apiTourGuide"
